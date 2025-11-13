@@ -29,3 +29,12 @@ public class CallStackExample {
         D(); // Then call D
     }
 }
+
+
+
+/*output:
+    In Method C
+    In Method B
+    In Method A
+    In Method D
+*/
